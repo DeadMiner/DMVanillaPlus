@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dmvp",
+  "name": "DM Vanilla Plus",
+  "description": "An expansion to Vanilla Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["D3ADM1N3R"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

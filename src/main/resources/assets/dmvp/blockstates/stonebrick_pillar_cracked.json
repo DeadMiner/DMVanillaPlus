@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "dmpv:model": "stonebrick_pillar_cracked" },
+        "axis=z":   { "dmpv:model": "stonebrick_pillar_cracked", "x": 90 },
+        "axis=x":   { "dmpv:model": "stonebrick_pillar_cracked", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "dmpv:model": "sandstone_pillar" },
+        "axis=z":   { "dmpv:model": "sandstone_pillar", "x": 90 },
+        "axis=x":   { "dmpv:model": "sandstone_pillar", "x": 90, "y": 90 }
+    }
+}

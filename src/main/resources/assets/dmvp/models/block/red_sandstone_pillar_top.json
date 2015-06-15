@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "dmvp:blocks/red_sandstone_pillar_top",
+        "side": "dmvp:blocks/red_sandstone_pillar"
+    }
+}
+

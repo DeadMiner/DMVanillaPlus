@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "dmvp:blocks/stonebrick_wall_mossy"
+    }
+}
